@@ -1,0 +1,27 @@
+.main_Menu{
+    display: flex;
+    margin-top: 1.5rem;
+}
+
+.Container {
+    position: relative;
+
+}
+
+.search_Bar {
+    border-radius: 1rem;
+    margin-left: 44.5rem;
+    margin-top: 3.5rem;
+}
+
+.search_Button {
+    border-style: none;
+    background-color: transparent;
+}
+
+
+.search_Img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}

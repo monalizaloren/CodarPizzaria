@@ -1,0 +1,57 @@
+.pizzerias{
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.pizzerias_Container {
+    background-color: #F8F8F8;
+    border-radius: .3rem;
+    border-top: none;
+    width: 250px;
+    height: auto;
+}
+
+.pizzerias img {
+    width: 250px;
+    height: 120px;
+    border-radius: .3rem;
+}
+
+
+.pizzerias_Name {
+    color: #D70606;
+    font: bold;
+    font-size: 17px;
+    margin-top: .3rem;
+    margin-left: .3rem;
+}
+
+.pizzerias_Rank {
+    font-size: 12px;
+    margin-left: 4rem;
+}
+
+.pizzerias_Type {
+    font-size: 10px;
+    padding: .5rem;
+    background-color: #E3E3E3;
+    border-radius: 1rem;
+    width: 40px;
+}
+
+.pizzerias_Size {
+    font-size: 10px;
+    padding: .5rem;
+    background-color: #E3E3E3;
+    border-radius: 1rem;
+    width: 40px;
+    margin-left: 3.7rem;
+    margin-top: -2.4rem;
+}
+
+.pizzerias_Time {
+    font-size: 12px;
+    margin-left: 12.5rem;
+    margin-top: -2.1rem;
+}

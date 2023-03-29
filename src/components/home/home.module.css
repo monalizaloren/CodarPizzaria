@@ -1,0 +1,60 @@
+.banner_Pizzerias {
+    background-image: url(https://i.imgur.com/uAmQle8.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 220px;
+    border-radius: .5rem;
+}
+
+.banner_Text{
+    text-transform: uppercase;
+    font-size: 25px;
+    color: #fff;
+    margin-top: -9rem;
+    padding-left: 1rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .7);
+}
+
+.app_Store {
+    padding: 2px;
+    padding-left: 1rem;
+}
+
+.app_Google {
+    width: 119.662px;
+    height: 40px;
+}
+
+
+.div_Container{
+    display: flex;
+    flex-direction: arrow;
+    margin-right: .5rem;
+    align-content: space-between;
+}
+
+.div_Container p {
+    margin-right: .5rem;
+    border-radius: 1rem;
+    padding: .3rem;
+}
+
+.div_Container p:hover {
+    background-color: orange;
+}
+
+
+
+.Cardapio {
+    color: #D70606;
+    font: bold;
+    font-size: 25px;
+}
+
+.Populares {
+    color: #D70606;
+    font: bold;
+    font-size: 25px;
+}
